@@ -1,0 +1,1382 @@
+[
+    {
+        "date": "2024-03-09",
+        "flightData": [
+            {
+                "date": "2024-03-09",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T09:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-09T11:10:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T12:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-09T14:10:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T13:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-09T15:10:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT2H20M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T20:10:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-09T22:30:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT5H5M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-09T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT9H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-09T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT12H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T06:30:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-09T08:05:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-09T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-09T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT15H40M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-09T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT16H55M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-09T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT2H5M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T09:30:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-09T11:35:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T12:50:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-09T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T14:20:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-09T16:30:00"
+                }
+            },
+            {
+                "date": "2024-03-09",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-09T15:30:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-09T17:40:00"
+                }
+            }
+        ]
+    },
+    {
+        "date": "2024-03-11",
+        "flightData": [
+            {
+                "date": "2024-03-11",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T09:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-11T11:10:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T12:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-11T14:10:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T13:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-11T15:10:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT2H20M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T20:10:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-11T22:30:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT5H5M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-11T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT9H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-11T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT12H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T06:30:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-11T08:05:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-11T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-11T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT15H40M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-11T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT16H55M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-11T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT2H5M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T09:30:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-11T11:35:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T12:50:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-11T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T14:20:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-11T16:30:00"
+                }
+            },
+            {
+                "date": "2024-03-11",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-11T15:30:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-11T17:40:00"
+                }
+            }
+        ]
+    },
+    {
+        "date": "2024-03-13",
+        "flightData": [
+            {
+                "date": "2024-03-13",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T09:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-13T11:10:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T12:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-13T14:10:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T13:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-13T15:10:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT2H20M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T20:10:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-13T22:30:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT5H5M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-13T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT9H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-13T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT12H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T06:30:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-13T08:05:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-13T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-13T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT15H40M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-13T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT16H55M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-13T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT2H5M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T09:30:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-13T11:35:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T12:50:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-13T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T14:20:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-13T16:30:00"
+                }
+            },
+            {
+                "date": "2024-03-13",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-13T15:30:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-13T17:40:00"
+                }
+            }
+        ]
+    },
+    {
+        "date": "2024-03-14",
+        "flightData": [
+            {
+                "date": "2024-03-14",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T09:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-14T11:10:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T12:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-14T14:10:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T13:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-14T15:10:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT2H20M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T20:10:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-14T22:30:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT5H5M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-14T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT9H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-14T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT12H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T06:30:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-14T08:05:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-14T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-14T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT15H40M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-14T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT16H55M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-14T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T12:50:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-14T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T14:20:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-14T16:30:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T15:30:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-14T17:40:00"
+                }
+            },
+            {
+                "date": "2024-03-14",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-14T19:45:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-14T21:55:00"
+                }
+            }
+        ]
+    },
+    {
+        "date": "2024-03-12",
+        "flightData": [
+            {
+                "date": "2024-03-12",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T09:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-12T11:10:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T12:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-12T14:10:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T13:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-12T15:10:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT2H20M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T20:10:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-12T22:30:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT5H5M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-12T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT9H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-12T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT12H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T06:30:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-12T08:05:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-12T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-12T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT15H40M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-12T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT16H55M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-12T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T12:50:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-12T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T14:20:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-12T16:30:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T15:30:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-12T17:40:00"
+                }
+            },
+            {
+                "date": "2024-03-12",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-12T19:45:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-12T21:55:00"
+                }
+            }
+        ]
+    },
+    {
+        "date": "2024-03-10",
+        "flightData": [
+            {
+                "date": "2024-03-10",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T12:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-10T14:10:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT2H10M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T13:00:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-10T15:10:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT2H20M",
+                "price": 6697.551,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T20:10:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-10T22:30:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT5H5M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-10T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT9H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-10T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT12H",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T06:30:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-10T08:05:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-10T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT12H20M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T21:20:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-10T22:55:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT15H40M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T18:00:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-10T19:40:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT16H55M",
+                "price": 6835.71,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T13:25:00"
+                },
+                "arrival": {
+                    "iataCode": "AMD",
+                    "terminal": "1",
+                    "at": "2024-03-10T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T12:50:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-10T15:00:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T14:20:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-10T16:30:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T15:30:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-10T17:40:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T19:45:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-10T21:55:00"
+                }
+            },
+            {
+                "date": "2024-03-10",
+                "duration": "PT2H10M",
+                "price": 7266.441,
+                "departure": {
+                    "iataCode": "DEL",
+                    "terminal": "3",
+                    "at": "2024-03-10T20:50:00"
+                },
+                "arrival": {
+                    "iataCode": "BOM",
+                    "terminal": "2",
+                    "at": "2024-03-10T23:00:00"
+                }
+            }
+        ]
+    }
+]
